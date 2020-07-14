@@ -19,7 +19,7 @@ html, body {
 
 @media (max-width: 400px) {
   #intro {
-    margin-top:-250px !important;
+    margin-top:-200px !important;
   }
 }
 
