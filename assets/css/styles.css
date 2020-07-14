@@ -19,13 +19,13 @@ html, body {
 
 @media (max-width: 400px) {
   #intro {
-    margin-top:-200px !important;
+    margin-top:-220px !important;
   }
 }
 
 @media (max-width: 320px) {
   #intro {
-    margin-top:-150px !important;
+    margin-top:-170px !important;
     margin-bottom:80px;
   }
 }
