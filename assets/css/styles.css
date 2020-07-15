@@ -19,14 +19,14 @@ html, body {
 @media (max-width: 400px) {
   #intro {
     margin-top:-250px !important;
-    margin-bottom:30px;
+    margin-bottom:60px;
   }
 }
 
 @media (max-width: 320px) {
   #intro {
-    margin-top:-200px !important;
-    margin-bottom:120px;
+    margin-top:-210px !important;
+    margin-bottom:150px;
   }
 }
 
@@ -74,12 +74,6 @@ body {
 @media (min-width: 576px) {
   #bold-heading {
     font-weight:600;
-  }
-}
-
-@media (max-width: 360px) {
-  body {
-    height:115vh;
   }
 }
 
