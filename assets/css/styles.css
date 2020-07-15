@@ -18,15 +18,15 @@ html, body {
 
 @media (max-width: 400px) {
   #intro {
-    margin-top:-250px !important;
-    margin-bottom:60px;
+    margin-top:-260px !important;
+    margin-bottom:70px;
   }
 }
 
 @media (max-width: 320px) {
   #intro {
-    margin-top:-210px !important;
-    margin-bottom:150px;
+    margin-top:-220px !important;
+    margin-bottom:170px;
   }
 }
 
