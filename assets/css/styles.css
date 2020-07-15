@@ -14,18 +14,18 @@
 html, body {
   width:100%;
   height:120vh;
-  /*overflow:hidden;*/
 }
 
 @media (max-width: 400px) {
   #intro {
-    margin-top:-220px !important;
+    margin-top:-250px !important;
+    margin-bottom:20px;
   }
 }
 
 @media (max-width: 320px) {
   #intro {
-    margin-top:-170px !important;
+    margin-top:-190px !important;
     margin-bottom:80px;
   }
 }
